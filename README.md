@@ -10,4 +10,4 @@ Version 1.0.8
 ## Platform
 Windows
 
-Official website: Soft Hands Home Care LLC
+**Official Website:** [Soft Hands Home Care LLC](https://www.softhandsllc.com/)
